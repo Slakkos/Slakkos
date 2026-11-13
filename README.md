@@ -11,10 +11,11 @@
 
 <p align="center">
   <a href="https://mathieurea.pro"><img src="assets/key-portfolio.png" alt="Portfolio" height="64"></a>
+  &nbsp;
+  <a href="https://uplifdev.pro"><img src="assets/key-uplif-grande.png" alt="Uplif Dev" height="64"></a>
 </p>
 
 <p align="center">
-  <a href="https://uplifdev.pro"><img src="assets/key-uplif.png" alt="Uplif Dev" height="44"></a>
   <a href="https://www.linkedin.com/in/mathieu-rea-a1b4092b5"><img src="assets/key-linkedin.png" alt="LinkedIn" height="44"></a>
   <a href="mailto:contact@mathieurea.pro"><img src="assets/key-email.png" alt="Email" height="44"></a>
   <a href="https://mathieurea.pro/CV-Mathieu-Rea.pdf"><img src="assets/key-cv.png" alt="Résumé" height="44"></a>
@@ -56,4 +57,6 @@ Revisited and improved in 2026.
 
 <p align="center">
   <a href="https://mathieurea.pro"><img src="assets/key-portfolio.png" alt="Portfolio" height="52"></a>
+  &nbsp;
+  <a href="https://uplifdev.pro"><img src="assets/key-uplif-grande.png" alt="Uplif Dev" height="52"></a>
 </p>
