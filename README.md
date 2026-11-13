@@ -52,10 +52,6 @@ Revisited and improved in 2026.
   </tr>
 </table>
 
-## What I work with
-
-TypeScript · React · Next.js · React Native · Expo · Node.js · PostgreSQL · Prisma · Three.js · Docker · C · C++ · Python · Blender
-
 <br>
 
 <p align="center">
